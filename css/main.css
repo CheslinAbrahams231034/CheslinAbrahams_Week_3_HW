@@ -1,0 +1,60 @@
+
+
+.header{
+    min-height: 100dvh;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.578), rgba(37, 37, 37, 0.637)), url(../assets/tyler-clemmensen-5q1xp_kresk-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    padding-top: 20px;
+
+}
+
+
+.container-lg{
+    padding-top: 100px;
+}
+
+.display-2{
+    color: white;
+}
+
+.display-5{
+    color: rgb(173, 173, 173);
+}
+
+
+.img-fluid{
+    padding-left: 50px;
+}
+
+
+button {
+    background-color: #aa0404; 
+    border: none;
+    color: white;
+    padding: 25px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100px;
+    margin-bottom: 100px;
+  }
+
+  p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    font-size: 140px;
+
+  }
+
+  .flexCont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
